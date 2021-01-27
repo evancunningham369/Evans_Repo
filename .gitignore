@@ -1,0 +1,4 @@
+/second_project
+__pycache__/
+db.sqlite3
+bin/
