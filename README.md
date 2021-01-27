@@ -1,5 +1,5 @@
 # The_Sims_3_Cheats
-Open files in IDE
+Open files in IDE  
 Run server
 ```bash
 python manage.py runserver
