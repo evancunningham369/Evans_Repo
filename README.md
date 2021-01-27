@@ -5,3 +5,5 @@ Run server
 python manage.py runserver
 ```
 Click on local host in terminal window
+# Contributions
+DummyDB.py written by [Cowen M. Hames](https://github.com/Greens-Theorem)
