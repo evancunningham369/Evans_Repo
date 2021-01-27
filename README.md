@@ -1,4 +1,4 @@
-# Evans_Repo
+# The_Sims_3_Cheats
 Open files in IDE
 Run server
 ```bash
